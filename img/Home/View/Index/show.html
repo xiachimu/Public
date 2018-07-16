@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>图片显示</title>
+	<style>
+		div{
+			width: 200px;
+			height: 200px;
+			border: 2px solid black;
+			float: left;
+			margin-left:8px;
+			margin-top: 8px;
+
+		}
+	</style>
+</head>
+<body>
+	<h3>{$a|default="游客"}</h3>
+	<foreach name = "res" item="v">
+		<div>
+		<notempty name = "v.imgpath">
+			<img src="__ROOT__/Img/Public/{$v.imgpath}" alt="" width="100%">	
+		</notempty>
+		<empty name = "v.imgpath">没有上传图片</empty>
+		<h3>{$v.nm}</h3>
+		</div>
+	</foreach>
+</body>
+</html>

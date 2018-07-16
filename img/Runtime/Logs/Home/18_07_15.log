@@ -1,0 +1,49 @@
+[ 2018-07-15T20:27:57+08:00 ] 127.0.0.1 /zuoye/TP/img/
+ERR: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)
+
+[ 2018-07-15T20:33:08+08:00 ] 127.0.0.1 /zuoye/TP/img/index.php/Home/Index/add
+ERR: syntax error, unexpected 'public' (T_PUBLIC)
+
+[ 2018-07-15T20:37:46+08:00 ] 127.0.0.1 /zuoye/TP/img/
+ERR: syntax error, unexpected '$file' (T_VARIABLE), expecting ',' or ')'
+
+[ 2018-07-15T20:37:47+08:00 ] 127.0.0.1 /zuoye/TP/img/
+ERR: syntax error, unexpected '$file' (T_VARIABLE), expecting ',' or ')'
+
+[ 2018-07-15T20:37:47+08:00 ] 127.0.0.1 /zuoye/TP/img/
+ERR: syntax error, unexpected '$file' (T_VARIABLE), expecting ',' or ')'
+
+[ 2018-07-15T20:51:50+08:00 ] 127.0.0.1 /zuoye/TP/img/index.php/Home/Index/add
+ERR: 水印图像不存在
+
+[ 2018-07-15T20:55:17+08:00 ] 127.0.0.1 /zuoye/TP/img/index.php/Home/Index/add
+ERR: 水印图像不存在
+
+[ 2018-07-15T20:56:09+08:00 ] 127.0.0.1 /zuoye/TP/img/index.php/Home/Index/add
+ERR: 水印图像不存在
+
+[ 2018-07-15T21:01:28+08:00 ] 127.0.0.1 /zuoye/TP/img/index.php/Home/Index/add
+ERR: 水印图像不存在
+
+[ 2018-07-15T21:02:33+08:00 ] 127.0.0.1 /zuoye/TP/img/index.php/Home/Index/add
+ERR: 水印图像不存在
+
+[ 2018-07-15T21:09:08+08:00 ] 127.0.0.1 /zuoye/TP/img/index.php/Home/Index/add
+ERR: 水印图像不存在
+
+[ 2018-07-15T21:35:10+08:00 ] 127.0.0.1 /zuoye/TP/img/index.php/Home/Index/add
+ERR: syntax error, unexpected ';', expecting ',' or ')'
+
+[ 2018-07-15T22:10:44+08:00 ] 127.0.0.1 /zuoye/TP/img/index.php/Home/Index/add
+ERR: Call to a member function open() on array
+
+[ 2018-07-15T22:11:16+08:00 ] 127.0.0.1 /zuoye/TP/img/index.php/Home/Index/add
+ERR: 1146:Table 'stu.shopimage' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shopimage`
+
+[ 2018-07-15T22:45:02+08:00 ] 127.0.0.1 /zuoye/TP/img/index.php/Home/Index/add
+ERR: syntax error, unexpected 'select' (T_STRING)
+
+[ 2018-07-15T22:45:05+08:00 ] 127.0.0.1 /zuoye/TP/img/index.php/Home/Index/add
+ERR: syntax error, unexpected 'select' (T_STRING)
+
